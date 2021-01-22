@@ -17,10 +17,17 @@ public class Chris {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        String[] Week ={"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
+       /** String[] Week ={"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"};
         for(String day : Week){
             System.out.println(day);
-        }
+        } */
+        System.out.println("Sunday");
+        System.out.println("Tuesday");
+        System.out.println("Wednesday");
+        System.out.println("Thursday");
+        System.out.println("Friday");
+        System.out.println("Saturday");
+        
     }
     
 }
